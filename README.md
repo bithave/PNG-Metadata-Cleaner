@@ -11,6 +11,11 @@
 - 用户ID/会话ID
 - 生成时间戳
 - 其他追踪信息
+- 清除AI生成的文件中的aigc label ：其中包含公司和user和生产ID等隐写水印，需要可以清除它
+<img width="984" height="115" alt="screenshot-1770828648316" src="https://github.com/user-attachments/assets/5edd2acb-bd82-4e95-aa54-fbd01ee04996" />
+
+
+
 
 ### 问题
 - **隐私泄露风险**：AIGC标签可能暴露用户的AI使用习惯和身份信息
